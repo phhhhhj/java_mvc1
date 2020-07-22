@@ -1,0 +1,205 @@
+@charset "UTF-8";
+#total {
+	background-color: white;
+	width: 1200px;
+	height: auto;
+	margin: auto;
+}
+
+#mypageContain {
+	width: 1200px;
+	height: auto;
+	overflow: hidden;
+	padding: 60px 0px;
+	background-color: #e8e8e8;
+}
+
+#mypageMenu {
+	width: 200px;
+	margin-left: 20px;
+	display: inline;
+	float: left;
+}
+
+dl {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+dt {
+	margin-bottom: 20px;
+	margin-left: 10px;
+	font-size: 20px;
+}
+
+dd {
+	margin-bottom: 10px;
+	margin-left: 30px;
+	font-size: 17px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#now {
+	color: #a50034;
+	font-weight: bold;
+}
+
+#mypageContent {
+	width: 950px;
+	height: auto;
+	/* overflow: hidden; */
+	margin-right: 30px;
+	float: right;
+	background-color: white;
+	padding: 0;
+}
+
+.buy {
+	margin: 20px 30px;
+	padding: 15px 0px;
+	background-color: #e8e8e8;
+}
+
+#mypageContent h1 {
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+.buy table {
+	margin: 20px auto;
+	width: 800px;
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+.buy th, .buy td {
+	height: 40px;
+	font-size: 20px;
+	border: 1px solid gray;
+	background-color: white;
+}
+
+.buy th {
+	font-weight: bold;
+	background-color: #a50034;
+	color: white;
+}
+
+.updateBody {
+	display: block;
+	padding-top: 30px;
+	padding-left: 75px;
+	padding-bottom: 75px;
+	padding-right: 75px;
+	text-align: center;
+}
+
+.inputTable {
+	width: 100%;
+	/* border-collapse: collapse; */
+	vertical-align: middle;
+}
+
+.inputTable th, .inputTable td {
+	text-align: left;
+	padding: 10px;
+}
+
+.inputTable th {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+input[type="text"], input[type="password"], select {
+	width: 400px;
+	padding: 15px;
+	font-size: 18px;
+	vertical-align: middle;
+	border: 1px solid #ccc;
+	margin: 5px;
+}
+
+.choice {
+	color: #aaa;
+}
+
+input[type="radio"] {
+	width: 30px;
+}
+
+.gender {
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 70px;
+}
+
+.mypageBtn {
+	width: 400px;
+	height: 60px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	background-color: #a50034;
+	border: none;
+	margin-top: 30px;
+}
+
+.leaveBody {
+	padding-top: 10px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: white;
+	border-bottom: 1px solid #a50034;
+}
+
+.leaveBody li {
+	list-style: disc;
+	font-size: 15px;
+	line-height: 22px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+}
+
+#leavePwCheck {
+	border: 0;
+	text-align: center;
+}
+
+.leaveBody h2 {
+	text-align: left;
+}
+
+#pwCheckErr {
+	display: none;
+}
+
+#insertErr {
+	display: none;
+}
+
+.msgErr{
+	width: 420px;
+	margin: 10px auto;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: red;
+	display: block;
+	line-height: 20px;
+	padding: 8px 0;
+}
+
+.updateX {
+	font-size: 12px;
+	font-weight: bold;
+	color: red;
+	padding-left: 5px;
+	vertical-align: bottom;
+}

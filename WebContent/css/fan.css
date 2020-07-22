@@ -1,0 +1,131 @@
+@charset "UTF-8";
+#total {
+	background-color: white;
+	width: 1200px;
+	height: auto;
+	margin: auto;
+}
+
+#fanpageContain {
+	width: 1200px;
+	height: auto;
+	overflow: hidden;
+	padding: 60px 0;
+	background-color: #e8e8e8;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#now {
+	color: #a50034;
+	font-weight: bold;
+}
+
+.noticeList {
+	margin: 20px 60px;
+	padding: 15px 60px;
+	background-color: white;
+}
+
+#fanpageContent h1, #fanpageContent h2 {
+	width: 95%;
+	margin-bottom: 10px;
+	margin-left: 100px;
+}
+
+.noticeList table {
+	margin: 20px auto;
+	width: 800px;
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+.noticeList th, .noticeList td {
+	height: 40px;
+	font-size: 20px;
+	border: 1px solid gray;
+	background-color: white;
+}
+
+.noticeList th {
+	font-weight: bold;
+	background-color: #a50034;
+	color: white;
+}
+
+.titleList {
+	text-align: left;
+	padding-left: 20px;
+}
+
+#contentDiv {
+	margin: 20px;
+	padding: 20px;
+	background-color: white;
+	font-size: 18px;
+	line-height: 200%;
+	text-align: justify;
+}
+
+#oneTitle {
+	float: left;
+}
+
+#date {
+	float: right;
+	font-size: 15px;
+	padding-right: 20px;
+	color: gray;
+	margin-top: 30px;
+}
+
+#btnDiv{
+	text-align: center;
+}
+
+.backBtn {
+	width: 250px;
+	height: 50px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	background-color: #a50034;
+	border: none;
+	margin-top: 30px;
+}
+
+#sideBtn {
+	float: right;
+	font-size: 15px;
+	padding-right: 50px;
+}
+
+#write {
+	background-color: #a50034;
+	border: none;
+	color: #fff;
+	text-align: center;
+	padding: 10px 20px;
+	margin-top: 25px;
+}
+
+.writeForm td, .writeForm tr {
+	border: none;
+}
+
+.replyContent {
+	background-color: #e8e8e8;
+}
+
+.replyBtn {
+	background-color: #a50034;
+	border: none;
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+	margin: 0px 5px;
+}

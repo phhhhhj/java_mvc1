@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+#center {
+	position: relative;
+	width: 1200px;
+	height:auto;
+	overflow:auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#board {
+	width: 900px;
+	position: static;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#gameListHead {
+	width: 1150px;
+	float: right;
+}
+
+#month_schedule {
+	margin-left: 100px;
+	width: 1000px;
+	float: none;
+}
+
+#schedule {
+	height: 30px;
+	width: 940px;
+}
+
+#scoreboard {
+	width: 1200px;
+	height: 500px;
+}

@@ -1,0 +1,521 @@
+{
+   "catcher":[
+      {
+         "number":"44",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=198",
+         "name":"김성진",
+         "EngName":"Kim Sung Jin",
+         "position":"포수 · 우투우타"
+      },
+      {
+         "number":"12",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=99",
+         "name":"김재성",
+         "EngName":"Kim Jae Seong",
+         "position":"포수 · 우투좌타"
+      },
+      {
+         "number":"42",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=29",
+         "name":"박재욱",
+         "EngName":"Park Jae Wook",
+         "position":"포수 · 우투우타"
+      },
+      {
+         "number":"27",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=30",
+         "name":"유강남",
+         "EngName":"Yoo Kang Nam",
+         "position":"포수 · 우투우타"
+      },
+      {
+         "number":"4",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=213",
+         "name":"이성우",
+         "EngName":"Lee Sung Woo",
+         "position":"포수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=44",
+         "name":"김기연",
+         "EngName":"Kim Ki Yeon",
+         "position":"포수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=126",
+         "name":"전준호",
+         "EngName":"Jeon Jun Ho",
+         "position":"포수 · 우투우타"
+      }
+   ],
+   "outfielder":[
+      {
+         "number":"22",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=171",
+         "name":"김현수",
+         "EngName":"Kim Hyun Soo",
+         "position":"외야수 · 우투좌타"
+      },
+      {
+         "number":"33",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=40",
+         "name":"박용택",
+         "EngName":"Park Yong Taik",
+         "position":"외야수 · 우투좌타"
+      },
+      {
+         "number":"24",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=159",
+         "name":"이재원",
+         "EngName":"Lee Jae Won",
+         "position":"외야수 · 우투우타"
+      },
+      {
+         "number":"29",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=169",
+         "name":"이진석",
+         "EngName":"Lee Jin Suk",
+         "position":"외야수 · 우투우타"
+      },
+      {
+         "number":"32",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=107",
+         "name":"이천웅",
+         "EngName":"Lee Chun Woong",
+         "position":"외야수 · 좌투좌타"
+      },
+      {
+         "number":"36",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=108",
+         "name":"이형종",
+         "EngName":"Lee Hyung Jong",
+         "position":"외야수 · 우투우타"
+      },
+      {
+         "number":"15",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=206",
+         "name":"전민수",
+         "EngName":"Chun Min Su",
+         "position":"외야수 · 우투좌타"
+      },
+      {
+         "number":"55",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=110",
+         "name":"채은성",
+         "EngName":"Chae Eun Seong",
+         "position":"외야수 · 우투우타"
+      },
+      {
+         "number":"51",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=111",
+         "name":"홍창기",
+         "EngName":"Hong Chang Ki",
+         "position":"외야수 · 우투좌타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=146",
+         "name":"최민창",
+         "EngName":"Choi Min Chang",
+         "position":"외야수 · 좌투좌타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=167",
+         "name":"문성주",
+         "EngName":"Moon Sung Ju",
+         "position":"외야수 · 좌투좌타"
+      }
+   ],
+   "pitcher":[
+      {
+         "number":"19",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=114",
+         "name":"고우석",
+         "EngName":"Go Woo Suk",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"69",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=251",
+         "name":"김대유",
+         "EngName":"Kim Dae Yu",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"45",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=25",
+         "name":"김대현",
+         "EngName":"Kim Dae Hyun",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"57",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=234",
+         "name":"김윤식",
+         "EngName":"Kim Yun Sik",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"48",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=26",
+         "name":"김지용",
+         "EngName":"Kim Ji Yong",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"61",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=184",
+         "name":"문광은",
+         "EngName":"Moon Kwang Eun",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"38",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=71",
+         "name":"배재준",
+         "EngName":"Bae Jae June",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"52",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=250",
+         "name":"백청훈",
+         "EngName":"Baek Chung Hoon",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"46",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=233",
+         "name":"송은범",
+         "EngName":"Song Eun Beom",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"54",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=139",
+         "name":"여건욱",
+         "EngName":"Yeo Geon Wook",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"64",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=122",
+         "name":"오석주",
+         "EngName":"Oh Seok Joo",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"35",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=180",
+         "name":"윌슨",
+         "EngName":"Tyler Wilson",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"39",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=137",
+         "name":"유원석",
+         "EngName":"Yoo Won Suk",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"26",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=235",
+         "name":"이민호",
+         "EngName":"Lee Min Ho",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"60",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=149",
+         "name":"이상규",
+         "EngName":"Lee Sang Kyu",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"30",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=212",
+         "name":"이상영",
+         "EngName":"Lee Sang Yung",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"37",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=82",
+         "name":"이우찬",
+         "EngName":"Lee Woo Chan",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"28",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=216",
+         "name":"이정용",
+         "EngName":"Yi Jung Yong",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"1",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=86",
+         "name":"임찬규",
+         "EngName":"Im Chan Kyu",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"49",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=214",
+         "name":"정용운",
+         "EngName":"Jung Yong Woon",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"59",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=215",
+         "name":"정우영",
+         "EngName":"Jung Woo Young",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"11",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=89",
+         "name":"정찬헌",
+         "EngName":"Jeong Chan Heon",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"21",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=90",
+         "name":"진해수",
+         "EngName":"Jin Hae Soo",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"23",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=113",
+         "name":"차우찬",
+         "EngName":"Cha Woo Chan",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"17",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=91",
+         "name":"최동환",
+         "EngName":"Choi Dong Hwan",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"56",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=92",
+         "name":"최성훈",
+         "EngName":"Choi Sung Hoon",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"3",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=187",
+         "name":"켈리",
+         "EngName":"Casey Patrick Kelly",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"40",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=199",
+         "name":"한선태",
+         "EngName":"Han Seon Tae",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=207",
+         "name":"강정현",
+         "EngName":"Kang Jeong Hyun",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=85",
+         "name":"임정우",
+         "EngName":"Lim Jung Woo",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=157",
+         "name":"김영준",
+         "EngName":"Kim Young Jun",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=158",
+         "name":"성동현",
+         "EngName":"Sung Dong Hyun",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=162",
+         "name":"이강욱",
+         "EngName":"Lee Kang Uk",
+         "position":"투수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=117",
+         "name":"손주영",
+         "EngName":"Son Ju Young",
+         "position":"투수 · 좌투좌타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=125",
+         "name":"김태형L",
+         "EngName":"Kim Tae Hyoung",
+         "position":"투수 · 좌투좌타"
+      }
+   ],
+   "infielder":[
+      {
+         "number":"25",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=208",
+         "name":"구본혁",
+         "EngName":"Gu Bon Hyeok",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"16",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=229",
+         "name":"김민성",
+         "EngName":"Kim Min Sung",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"5",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=36",
+         "name":"김용의",
+         "EngName":"Kim Yong Eui",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"34",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=154",
+         "name":"김호은",
+         "EngName":"Kim Ho Eun",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"65",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=253",
+         "name":"라모스",
+         "EngName":"Roberto Ramos",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"0",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=136",
+         "name":"류형우",
+         "EngName":"Ryu Hyoung Woo",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"66",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=105",
+         "name":"박지규",
+         "EngName":"Park Ji Kyu",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"2",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=152",
+         "name":"백승현",
+         "EngName":"Baek Seung Hyeon",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"50",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=236",
+         "name":"손호영",
+         "EngName":"Son Ho Young",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"14",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=170",
+         "name":"신민재",
+         "EngName":"Shin Min Jae",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"13",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=210",
+         "name":"양종민",
+         "EngName":"Yang Jong Min",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"10",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=104",
+         "name":"오지환",
+         "EngName":"Oh Ji Hwan",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"67",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=237",
+         "name":"이주형",
+         "EngName":"Lee Ju Hyoung",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"43",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=58",
+         "name":"장준원",
+         "EngName":"Jang Jun Won",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"8",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=248",
+         "name":"정근우",
+         "EngName":"Jeong Keun Woo",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"7",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=138",
+         "name":"정주현",
+         "EngName":"Jung Ju Hyeon",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"31",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=140",
+         "name":"최재원",
+         "EngName":"Choi Jae Won",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=38",
+         "name":"김주성",
+         "EngName":"Kim Ju Sung",
+         "position":"내야수 · 우투우타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=160",
+         "name":"최현준",
+         "EngName":"Choi Hyun Jun",
+         "position":"내야수 · 우투좌타"
+      },
+      {
+         "number":"M",
+         "img":"https:\/\/www.lgtwins.com\/service\/download.ncd?actID=BR_RetrieveFile&baRq=IN_DS&baRs=DOWNLOAD&IN_DS.FILE_TYPE=TTM&IN_DS.DOWNLOAD_FILE_TYPE=THUMB1&IN_DS.REPRESENT_YN=Y&IN_DS.FILE_ID=103",
+         "name":"양석환",
+         "EngName":"Yang Suk Hwan",
+         "position":"내야수 · 우투우타"
+      }
+   ]
+}

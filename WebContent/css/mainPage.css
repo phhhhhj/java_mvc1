@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+#total {
+	background-color: white;
+	width: 1200px;
+	height: 800px;
+	margin: auto;
+}
+
+#center {
+	width: 1200px;
+	height: 550px;
+	overflow: hidden;
+}
+
+#centerBg {
+	width: 976px;
+	height: 500px;
+	margin: 0 auto;
+	transform: skew(-10deg,0);
+	background-color: #555;
+}
+
+#centerImg {
+	height: 500px;
+	transform: scale(1.2);
+	overflow: hidden;
+}
+
+#centerImg img {
+	width: 120%;
+	display: block;
+	transform: skew(10deg,0);
+	text-align: center;
+}
+
+#black {
+	width: 1200px;
+	height: 500px;
+	background-color: black;
+	position: absolute;
+	top: 150;
+}
+
+#topMenuTable{
+	width: 1200px;
+	height: 150px;
+	background-color: white;
+	font-size: 20px;
+	font-weight: bold;
+	border-collapse: collapse;
+}
+
+#gnbHeader{
+	font-size: 15px;
+	background-color: white;
+}
+
+#memberHeader {
+	float: right;
+	padding-right: 30px;
+}
+
+.smallMenu {
+	margin: 0 10px;
+}
+
+#lnbHeader{
+	background-color: gray;
+}
+
+#topLogo{
+	background-color: rgba( 255, 255, 255, 0 );
+}
+
+#subHeader{
+	background-color: white;
+}
+
+td{
+	text-align: center;
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+li{
+	list-style: none;
+	padding: 0px;
+}
+
+.subMenu{
+	width: 150px;
+	margin: auto;
+}
+
+.subsub {
+	margin-top: 10px;
+}
+
+#bottom{
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+}
